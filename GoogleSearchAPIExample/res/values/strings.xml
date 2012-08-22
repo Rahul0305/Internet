@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="hello">Hello World, GoogleSearchAPIExampleActivity!</string>
+    <string name="app_name">GoogleSearchAPIExample</string>
+    <string name="cache_dirname">GoogleImgApp_Cache</string>
+
+</resources>
